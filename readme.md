@@ -29,6 +29,5 @@ To disable colorburst, which will make your CGA and Tandy programs appear monoch
 
 ## Credits
 
-This program was put together by Mysoft from ##dos in 2022. Readme by indyZ. Packaged by indyZ.
-
+The assembly code was written by Mysoft from ##dos in 2022. Readme and packaging by Sam Foster.
 
